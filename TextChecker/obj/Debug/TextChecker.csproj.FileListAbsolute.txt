@@ -1,0 +1,1 @@
+D:\Visual Studio Projekter\TextSideProject\TextChecker\bin\Debug\TextChecker.exe.config
